@@ -1,0 +1,10 @@
+com\azzouz\productservice\repository\ProductRepository.class
+com\azzouz\productservice\model\Product.class
+com\azzouz\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\azzouz\productservice\dto\ProductRequest.class
+com\azzouz\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\azzouz\productservice\ProductServiceApplication.class
+com\azzouz\productservice\controller\ProductController.class
+com\azzouz\productservice\model\Product$ProductBuilder.class
+com\azzouz\productservice\dto\ProductResponse.class
+com\azzouz\productservice\service\ProductService.class

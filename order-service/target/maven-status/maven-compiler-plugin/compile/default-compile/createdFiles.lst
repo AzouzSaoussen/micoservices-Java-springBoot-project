@@ -1,0 +1,12 @@
+com\azzouz\orderservice\dto\OrderRequest.class
+com\azzouz\orderservice\model\Order.class
+com\azzouz\orderservice\event\OrderPlacedEvent.class
+com\azzouz\orderservice\dto\OrderLineItemsDto.class
+com\azzouz\orderservice\repository\OrderRepository.class
+com\azzouz\orderservice\dto\InventoryResponse.class
+com\azzouz\orderservice\model\OrderLineItems.class
+com\azzouz\orderservice\controller\OrderController.class
+com\azzouz\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\azzouz\orderservice\config\WebClientConfig.class
+com\azzouz\orderservice\OrderServiceApplication.class
+com\azzouz\orderservice\service\OrderService.class

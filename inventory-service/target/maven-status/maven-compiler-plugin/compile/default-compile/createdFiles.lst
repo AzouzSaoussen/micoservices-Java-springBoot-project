@@ -1,0 +1,7 @@
+com\azzouz\inventoryservice\service\InventoryService.class
+com\azzouz\inventoryservice\controller\InventoryController.class
+com\azzouz\inventoryservice\model\Inventory.class
+com\azzouz\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\azzouz\inventoryservice\dto\InventoryResponse.class
+com\azzouz\inventoryservice\InventoryServiceApplication.class
+com\azzouz\inventoryservice\repository\InventoryRepository.class

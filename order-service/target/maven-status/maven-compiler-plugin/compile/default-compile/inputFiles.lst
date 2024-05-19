@@ -1,0 +1,11 @@
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\dto\OrderLineItemsDto.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\model\Order.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\config\WebClientConfig.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\dto\InventoryResponse.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\controller\OrderController.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\dto\OrderRequest.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\service\OrderService.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\model\OrderLineItems.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\OrderServiceApplication.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\event\OrderPlacedEvent.java
+D:\cours2023\PPP\micoservices-parent\order-service\src\main\java\com\azzouz\orderservice\repository\OrderRepository.java
